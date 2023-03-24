@@ -1,4 +1,8 @@
-const fs = require('fs')
-const cp = require('child_process');
+#!/usr/bin/env node
 
-const projectName = 'test'
+const fs = require("fs");
+const cp = require("child_process");
+
+const projectName = "test";
+
+cp.execSync(``);
